@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m David 👋  
 
-<!--
-**codedbyDWII/codedbyDWII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring **Software Engineer** with a background in entertainment production, now pivoting into tech. I recently earned my **CompTIA Security+ certified** and am currently in the **MCIT program at the University of Pennsylvania**.  
 
-Here are some ideas to get you started:
+I’m passionate about learning, problem-solving, and building the skills to create useful software solutions. Right now, I’m focused on strengthening my knowledge in **Python, Java, and foundational computer science concepts**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Tools (Growing Every Day)
+- Languages: Python, Java (beginner)  
+- Tools: Git, GitHub  
+- Interests: Software Engineering, Information Security, Data Systems  
+
+---
+
+### 🚀 What I’m Working On
+- Building small Python projects as part of my studies  
+- Preparing for the MCIT program at UPenn  
+- Exploring how to transition into a full-time entry level Software Engineering role   
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dkwii/)  
+- [Email](davidwilliams@seas.upenn.edu)
